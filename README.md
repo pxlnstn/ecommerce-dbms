@@ -1,6 +1,17 @@
 # OnlineShop
 
 A comprehensive database project for an e-commerce platform. It models a real-world online shopping system inspired by platforms like Amazon, Hepsiburada, and Trendyol. The project includes conceptual design, relational modeling, SQL implementation, triggers, constraints, and example queries.
+---
+
+## 👤 Contribution
+
+This was a group project.
+
+I was responsible for:
+- Designing the initial EER schema and entity relationships
+- Creating the first version of the relational model and normalization
+- Implementing core logic such as foreign keys, triggers, and joins
+- Debugging SQL scripts during development
 
 ---
 
@@ -69,7 +80,3 @@ LIMIT 1;
 ```
 
 This returns the most popular product based on units sold.
-
----
-
-📅 Developed for Introduction to Databases (2024–2025)
