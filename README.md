@@ -1,6 +1,6 @@
 # OnlineShop
 
-A comprehensive database project for an e-commerce platform. It models a real-world online shopping system inspired by platforms like Amazon, Hepsiburada, and Trendyol. The project includes conceptual design, relational modeling, SQL implementation, triggers, constraints, and example queries.
+A comprehensive database project for an e-commerce platform. It models a real-world online shopping system inspired by platforms like Amazon, Hepsiburada, and Trendyol. The project includes conceptual design, relational modeling, SQL implementation, triggers, constraints, and example queries, demonstrating end-to-end database development.
 ---
 
 ## 👤 Contribution
